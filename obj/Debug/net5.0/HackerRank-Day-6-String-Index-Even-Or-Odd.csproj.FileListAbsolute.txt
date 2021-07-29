@@ -1,0 +1,16 @@
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\bin\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.exe
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\bin\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.deps.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\bin\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.runtimeconfig.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\bin\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.runtimeconfig.dev.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\bin\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\bin\Debug\net5.0\ref\HackerRank-Day-6-String-Index-Even-Or-Odd.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\bin\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.pdb
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\obj\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.csproj.AssemblyReference.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\obj\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\obj\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.AssemblyInfoInputs.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\obj\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.AssemblyInfo.cs
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\obj\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.csproj.CoreCompileInputs.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\obj\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\obj\Debug\net5.0\ref\HackerRank-Day-6-String-Index-Even-Or-Odd.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\obj\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.pdb
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-6-String-Index-Even-Or-Odd\obj\Debug\net5.0\HackerRank-Day-6-String-Index-Even-Or-Odd.genruntimeconfig.cache

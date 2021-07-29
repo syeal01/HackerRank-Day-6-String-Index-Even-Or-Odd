@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HackerRank-Day-6-String-Index-Even-Or-Odd/1.0.0": {
+        "runtime": {
+          "HackerRank-Day-6-String-Index-Even-Or-Odd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HackerRank-Day-6-String-Index-Even-Or-Odd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
